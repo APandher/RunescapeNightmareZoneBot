@@ -6,7 +6,7 @@ The bot uses Python with the libraries **pyautogui** and **schedule** in order t
 
 ### Initialzing the Bot
 
-To initalize the bot one must have the inventory ready with the Dwarven rock cake, Absorption potions, and Overload potions. The quick prayers must also be set to protect from melee. The pictures included in the repository should also be in the same file as the bot, double check this to ensure you don't get any errors. Run the bot and two lists should appear in the command line, these lists are the coordinates of the overload and the absorption potions respectively.
+To initalize the bot one must have the inventory ready with the Dwarven rock cake, Absorption potions, and Overload potions. The quick prayers must also be set to protect from melee. The pictures included in the repository should also be in the same file as the python script, double check this to ensure you don't get any errors. Run the bot and two lists should appear in the command line, these lists are the coordinates of the overload and the absorption potions respectively.
 
 ### Using the Bot
 
