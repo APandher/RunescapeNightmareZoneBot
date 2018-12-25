@@ -2,6 +2,8 @@
 
 This is an undetectable bot designed for the game Runescape which allows someone to AFK Nightmare zone. This is designed to be done with Absorption potions and full Dharok's.
 
+The bot uses Python with the libraries ##### pyautogui and ##### schedule in order to simulate random clicks and do them in an orderly but random manner making them undetectable.
+
 ### Initialzing the Bot
 
 To initalize the bot one must have the inventory ready with the Dwarven rock cake, Absorption potions, and Overload potions. The quick prayers must also be set to protect from melee. Run the bot and two lists should appear in the command line, these lists are the coordinates of the overload and the absorption potions respectively.
