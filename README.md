@@ -15,3 +15,5 @@ Drink the potion and enter the dream, at this point you should be in the Nightma
 ### What if I finish the dream and the Bot keeps going?
 
 It won't. It detects when the dream is done and automatically logs you out. Happy exp gain!
+
+### This program is currently outdated and is in the process of being updated ###
