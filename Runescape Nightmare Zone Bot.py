@@ -68,7 +68,7 @@ def main():
 
 
 
-
+//Make a class for this, start modularizing the code as it is repetitive 
 
 
 
